@@ -1,5 +1,5 @@
 # XQueen_bench
-A benmarker for X Quenn a 42 project
+A benmarker for X Quenn a 42 exercice
 
 # Classement
 |   Nom   |   Temps   |
